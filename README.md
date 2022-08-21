@@ -5,11 +5,10 @@ I'm Chunyu Xue, currently a first-year PhD student in [Emerging Parallel Computi
 <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/learn11.gif?raw=true" width="280" height="200" />
 
 - 🧐 Research interests: system architecture, HPC, cloud computing
-
 - 💼 Personal website:  https://dicardox.github.io
 - 📮Email: [dicardo@sjtu.edu.cn][dicardo@sjtu.edu.cn]
 - 🗺️ Location: Shanghai, China
-- ...
+- ▪️▪️▪️
 
 <br>
 
