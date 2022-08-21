@@ -7,7 +7,7 @@ My research interests include system architecture, HPC and cloud computing.
 - 💼 Personal website:  [https://dicardox.github.io][https://dicardox.github.io]
 - 📮Email: [dicardo@sjtu.edu.cn][dicardo@sjtu.edu.cn]
 
-<img align="right" style="position:absolute;top:500px;" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/PYeT.gif?raw=true" width="180" height="200" />
+<img align="right" style="position:absolute;top:0px;" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/PYeT.gif?raw=true" width="180" height="200" />
 
 
 
