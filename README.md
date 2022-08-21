@@ -3,7 +3,7 @@
 I'm Chunyu Xue, 
 
 
-  <img align="right" alt="GIF" src="https://github.com/dicardox/dicardox/programmer.gif?raw=true" width="400" height="260" />
+  <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/PYeT.gif?raw=true" width="180" height="200" />
 
 
 
