@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Chunyu Xue, 
+I'm Chunyu Xue, currently a first-year PhD student in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). 
 
 
   <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/PYeT.gif?raw=true" width="180" height="200" />
