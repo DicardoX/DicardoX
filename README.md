@@ -4,7 +4,7 @@ I'm Chunyu Xue, currently a second-year Direct PhD student in [Emerging Parallel
 
 <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/HiringProcess.gif?raw=true" width="250" height="200" />
 
-- 🧐 Research interests: AI system, LM distributed training, DL compiler
+- 🧐 Research interests: ML system, LM distributed training, AI compiler
 
 - 💼 Personal website:  https://dicardox.github.io
 - 📮Email: dicardo@sjtu.edu.cn
