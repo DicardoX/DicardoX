@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Chunyu Xue, currently a second-year Direct PhD student in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn). I received my bachelor's degree in Computer Science and Technology from SJTU. I worked as a SWE intern in Microsoft. 
+I'm Chunyu Xue, currently a second-year Direct PhD Candidate in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn). I received my bachelor's degree in Computer Science and Technology from SJTU. I worked as a SWE intern in Microsoft. 
 
 <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/HiringProcess.gif?raw=true" width="250" height="200" />
 
