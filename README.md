@@ -4,7 +4,7 @@ I'm Chunyu Xue, currently a third-year Direct PhD Candidate in [Emerging Paralle
 
 <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/HiringProcess.gif?raw=true" width="250" height="200" />
 
-- 🧐 Research interests: ML System, System for AI, LLM Training/Finetuning
+- 🧐 Research interests: System for AI, ML Scheduling, LLM Training/Finetuning
 
 - 💼 Personal website:  https://dicardox.github.io
 - 📮 Email: dicardo@sjtu.edu.cn
