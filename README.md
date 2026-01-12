@@ -6,7 +6,6 @@ I'm Chunyu Xue, a third-year Direct PhD Candidate in [Emerging Parallel Computin
 
 - 🧐 Research interests: System for AI, ML Scheduling, LLM/MultiModal Training/Finetuning
 - 🤵 Internship: ByteDance Seed Intra Research (now), Microsoft Cloud+AI
-- 💼 Personal website:  https://dicardox.github.io
 - 📮 Email: dicardo@sjtu.edu.cn
 - 🗺️ Location: Shanghai, China
 - ...
