@@ -6,6 +6,9 @@ Feel free to reach out if you are interested in potential collaboration!
 
 # 🔥 News
 
+<img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/HiringProcess.gif?raw=true" width="250" height="200" />
+
+
 - *2026.05*, Glad to join Moonshot (Kimi) RL Infra team as a research intern 🥳, solving ambitious moonshot problems together that will lead humanity to AGI! Had a wonderful experience in Seed team~
 - *2026.05*, Give a talk at NSDI'26, Renton, WA USA.
 - *2026.04*, Give two talks at EuroSys'26, Edinburgh, Scoland UK.
