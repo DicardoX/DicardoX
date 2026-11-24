@@ -1,14 +1,14 @@
 ## Hey there 👋
 
-I'm [Chunyu Xue](https://dicardox.github.io), a fourth-year PhD student in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html). My research interests lie in building efficient and scalable systems for LLM and MultiModal pretraining, supervised fine-tuning, post-training, and cluster-level scheduling. 
-Currently, I'm working as a research intern in [Moonshot AI (Kimi)](https://www.moonshot.ai) (RL Infrastructure). I had a wonderful experience when working as a research intern in [ByteDance Seed](https://seed.bytedance.com/en/) (Training Infrastructure). I worked as an engineering intern in [Microsoft Cloud+AI](https://www.microsoft.com/en-us/aprd/aboutus/team-cai). I received my B.S. in Computer Science and Technology from SJTU.
-Feel free to reach out if you are interested in potential collaboration!
+I'm Chunyu Xue (薛春宇), a final-year PhD candidate in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html). My [research interests](https://github.com/DicardoX/Research-Space) lie in building efficient and scalable systems for LLM and MultiModal pretraining, supervised fine-tuning, post-training, and cluster-level scheduling. 
+In 2026, I worked as a research intern at [Moonshot AI (Kimi)](https://www.moonshot.ai) (RL Infrastructure), focusing on accelerating RL rollout via multi-token prediction (MTP). Before that, I had a wonderful experience when working as a research intern at [ByteDance Seed](https://seed.bytedance.com/en/) (Training Infrastructure), involved in building in-house multimodal training framework. I worked as an engineering intern at [Microsoft Cloud+AI](https://www.microsoft.com/en-us/aprd/aboutus/team-cai). I received my B.S. in Computer Science and Technology from [SJTU]((https://www.sjtu.edu.cn)).
 
 # 🔥 News
 
 <img align="right" alt="GIF" src="https://github.com/DicardoX/DicardoX/blob/main/HiringProcess.gif?raw=true" width="250" height="200" />
 
-
+- *2026.11*, "Graduated" from the Moonshot RL Infrastructure team 🧑‍🎓! Grateful to everyone I had the pleasure of working with, including the amazing folks in our lunch crew 😊.
+- *2026.10*, Awarded National Scholarship for Doctoral Students!
 - *2026.05*, Glad to join Moonshot (Kimi) RL Infra team as a research intern 🥳, solving ambitious moonshot problems together that will lead humanity to AGI! Had a wonderful experience in Seed team~
 - *2026.05*, Give a talk at NSDI'26, Renton, WA USA.
 - *2026.04*, Give two talks at EuroSys'26, Edinburgh, Scoland UK.
@@ -24,7 +24,7 @@ Feel free to reach out if you are interested in potential collaboration!
 
 # 💼 Experiences
 
- - *2026.05 - Now*, Moonshot AI (Kimi) (RL Infrastructure) `Research Intern`
+ - *2026.05 - 2026.11*, Moonshot AI (Kimi) (RL Infrastructure) `Research Intern`
  - *2025.03 - 2026.05*, ByteDance Seed (Training Infrastructure) `Research Intern`
  - *2021.06 - 2021.09*, Microsoft (Cloud+AI) `Software Engineer Intern`
 
@@ -50,6 +50,7 @@ Feel free to reach out if you are interested in potential collaboration!
 
 # 🔨 Projects
 
+ - *2026.07 - 2026.11*, Dynamic Batch-Level Multi-Token Prediction for Accelerating Large-Scale Rollout in Industrial RL Infrastructure. Moonshot AI (Kimi).
  - *2026.03 - 2026.05*, ViT-USM Encoder Unified Load Balancing and Dynamic Sequence Parallelism in Multimodal Pretraining. ByteDance Seed.
  - *2025.12 - Now*, Eﬀicient Checkpoint-Restore Techniques for Large Model Elastic Training. Lenovo.
  - *2024.12 - 2025.12*, Eﬀicient and Elastic Training System for Large Models. Lenovo.
@@ -57,6 +58,7 @@ Feel free to reach out if you are interested in potential collaboration!
 
 # 🎉 Awards
 
+ - National Scholarship for Doctoral Students, *2026.10*
  - Outstanding Graduate of Shanghai Jiao Tong University, *2022.06* 
  - Zhiyuan Honors Degree, Shanghai Jiao Tong University, *2022.06* 
  - SJTU Undergraduate Excellence Scholarship, *2019-2022*
